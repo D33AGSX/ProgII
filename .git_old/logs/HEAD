@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 38a196eb587a77512514793d00210a79db8dab56 unknown <GSX@L5NRKD01082819A.(none)> 1776911604 -0500	initial pull
+38a196eb587a77512514793d00210a79db8dab56 f44bec30965322b854fdaa50a18c845470496aab D33AGSX <henryw.ramirez@gmail.com> 1776977050 -0500	commit: Completando Laboratorio 1
+f44bec30965322b854fdaa50a18c845470496aab f44bec30965322b854fdaa50a18c845470496aab D33AGSX <henryw.ramirez@gmail.com> 1776977161 -0500	checkout: moving from main to laboratorios
+f44bec30965322b854fdaa50a18c845470496aab f44bec30965322b854fdaa50a18c845470496aab D33AGSX <henryw.ramirez@gmail.com> 1776977436 -0500	checkout: moving from laboratorios to Laboratorios
+f44bec30965322b854fdaa50a18c845470496aab 3092d346bfc0a830d8f5c3fecb093f893b3f6e32 D33AGSX <henryw.ramirez@gmail.com> 1776977451 -0500	pull origin Laboratorios: Merge made by the 'ort' strategy.
+3092d346bfc0a830d8f5c3fecb093f893b3f6e32 8e0c40d8193c225c4af9e1fe85cdd91e06984df6 D33AGSX <henryw.ramirez@gmail.com> 1776977777 -0500	commit: Organizando estructura de las carpetas de Laboratorios
+8e0c40d8193c225c4af9e1fe85cdd91e06984df6 7ee7d1c953de84ec192e09b946ae587904d85626 D33AGSX <henryw.ramirez@gmail.com> 1776977954 -0500	commit: Estructurando Laboratorio 02
+7ee7d1c953de84ec192e09b946ae587904d85626 24a46c5a2f69f101c55b5b20893a394988998304 D33AGSX <henryw.ramirez@gmail.com> 1776988830 -0500	commit: Practicas de Laboratorio 2
+24a46c5a2f69f101c55b5b20893a394988998304 79e55d5d4185ffc020b01fe263d3c1c8d5aa52ae D33AGSX <henryw.ramirez@gmail.com> 1776989025 -0500	commit: Arreglando nombre de archivos para mejor lectura
+79e55d5d4185ffc020b01fe263d3c1c8d5aa52ae 7f2484dec09f241d2284abdb899aba8307ffa24b GSX <henryw.ramirez@gmail.com> 1777250108 -0500	commit: Finalizing Lab 02 files in Ubuntu Enviroment
+7f2484dec09f241d2284abdb899aba8307ffa24b f44bec30965322b854fdaa50a18c845470496aab GSX <henryw.ramirez@gmail.com> 1777250125 -0500	checkout: moving from Laboratorios to main
+f44bec30965322b854fdaa50a18c845470496aab f44bec30965322b854fdaa50a18c845470496aab GSX <henryw.ramirez@gmail.com> 1777250141 -0500	checkout: moving from main to main
+f44bec30965322b854fdaa50a18c845470496aab 7f2484dec09f241d2284abdb899aba8307ffa24b GSX <henryw.ramirez@gmail.com> 1777250237 -0500	checkout: moving from main to laboratorios
+7f2484dec09f241d2284abdb899aba8307ffa24b 7f2484dec09f241d2284abdb899aba8307ffa24b GSX <henryw.ramirez@gmail.com> 1777250641 -0500	checkout: moving from laboratorios to laboratorios
+7f2484dec09f241d2284abdb899aba8307ffa24b 1621e13a7f53ab8180360a3b9f528b95c8b52e14 GSX <henryw.ramirez@gmail.com> 1777421933 -0500	commit: Lab03 Completado
+1621e13a7f53ab8180360a3b9f528b95c8b52e14 1621e13a7f53ab8180360a3b9f528b95c8b52e14 GSX <henryw.ramirez@gmail.com> 1777422223 -0500	checkout: moving from laboratorios to Laboratorios
+1621e13a7f53ab8180360a3b9f528b95c8b52e14 1621e13a7f53ab8180360a3b9f528b95c8b52e14 GSX <henryw.ramirez@gmail.com> 1777422464 -0500	checkout: moving from Laboratorios to Laboratorios
